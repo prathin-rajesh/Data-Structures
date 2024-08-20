@@ -1,6 +1,6 @@
 public class Node {
     int data;
-    Node next; //by default next is null
+    Node next; //by default, the values are null since they are class variables
     
     //no arg constructor
     public Node (){
